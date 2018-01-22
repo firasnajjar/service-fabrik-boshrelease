@@ -45,6 +45,8 @@ builds:
     version: 3.2.0
   ab6dbca1-884a-4a64-4fe2-fa6ad8133ef9:
     version: 3.19.0
+  acd19150-ab08-4992-6d5a-8b1705b52eb2:
+    version: v3.27.1-ali
   b01ef361-2afb-432c-b9a8-0f8ac382e5a1:
     version: 3.6.0
   b8d301bf-20a8-4eeb-b6e2-20881df6cd47:
